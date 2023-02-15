@@ -74,5 +74,5 @@ termcolor==1.1.0
 tqdm==4.32.2
 uritemplate==3.0.0
 urllib3==1.25.3
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 wrapt==1.11.2
